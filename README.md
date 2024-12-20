@@ -8,7 +8,7 @@
 - 😄 Curiosidade: Tenho um enorme prazer em aprender coisas novas, sobretudo a respeito da natureza ao meu redor. No entanto, acima de tudo no mundo, gosto de gatos.
 
 <div>
-![https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/dF3v5bUr7HJ.gif)
+<img src="https://tenor.com/view/cat-smiling-cat-grey-cat-cute-cat-gif-2949633679466643461" width="40" height="40" />
 </div>
 
 ## Tecnologias e Ferramentas
