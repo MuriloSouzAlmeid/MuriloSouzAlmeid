@@ -7,7 +7,7 @@
 - 🤖⭐ Atividades Complementares: Participo da Tamandutech: Equipe de robótica, e do GPDA (Grupo de Pesquisa e Desenvolvimento Aeroespacial), ambos pela UFABC.
 - 😄 Curiosidade: Tenho um enorme prazer em aprender coisas novas, sobretudo a respeito da natureza ao meu redor. No entanto, acima de tudo no mundo, gosto de gatos.
 
-<div class="tenor-gif-embed" data-postid="2949633679466643461" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-smiling-cat-grey-cat-cute-cat-gif-2949633679466643461">Cat Smiling Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/dF3v5bUr7HJ.gif" width="150" height="150" />
 
 ## Tecnologias e Ferramentas
 <div>
