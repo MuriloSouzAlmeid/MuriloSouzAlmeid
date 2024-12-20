@@ -1,7 +1,7 @@
 # Olá, me chamo Murilo ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MuriloSouzAlmeid/MuriloSouzAlmeid/blob/output/github-contribution-grid-snake.svg)
 
 ## Sobre mim
 - 💻 Aprendizado: Atualmente estou me especializando em desenvolvimento de plataformas web e mobile, principalmente com o uso dos frameworks React Native e Next.js.
