@@ -8,7 +8,7 @@
 - 😄 Curiosidade: Tenho um enorme prazer em aprender coisas novas, sobretudo a respeito da natureza ao meu redor. No entanto, acima de tudo no mundo, gosto de gatos.
 
 <div>
-<img src="https://i.pinimg.com/originals/73/0d/75/730d75ed729397068c7a89fa7476e305.gif" width="150" height="150" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150" height="150" />
 </div>
 
 ## Tecnologias e Ferramentas
