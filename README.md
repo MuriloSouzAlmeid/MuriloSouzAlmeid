@@ -7,7 +7,9 @@
 - 🤖⭐ Atividades Complementares: Participo da Tamandutech: Equipe de robótica, e do GPDA (Grupo de Pesquisa e Desenvolvimento Aeroespacial), ambos pela UFABC.
 - 😄 Curiosidade: Tenho um enorme prazer em aprender coisas novas, sobretudo a respeito da natureza ao meu redor. No entanto, acima de tudo no mundo, gosto de gatos.
 
+<div>
 <img src="https://tenor.com/dF3v5bUr7HJ.gif" width="150" height="150" />
+</div>
 
 ## Tecnologias e Ferramentas
 <div>
